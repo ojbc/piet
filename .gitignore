@@ -1,0 +1,7 @@
+/target/
+.classpath
+.project
+.settings
+src/assets/node
+src/assets/node_modules
+src/assets/package-lock.json
